@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709129319969",
+    "project_id": "messengerx-ab9eb",
+    "storage_bucket": "messengerx-ab9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709129319969:android:c53ca07383336d2d241560",
+        "android_client_info": {
+          "package_name": "com.example.messengerx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpT_q4bnYII-JWbHaMQZyR0YPfOPJ0GwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
